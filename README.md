@@ -28,6 +28,3 @@ Start the web server
 php -S 127.0.0.1:8000
 
 Now visit http://127.0.0.1:8000 in the browser
-
-My Approach to Completing the Task
-I built a simple MVC pattern to use as the core of the project through which I had the opportunity to learn more about how frameworks basically work behind the scenes and to apply SOLID principles and utilize some other design patterns like the Singleton and Strategy.
