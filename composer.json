@@ -1,0 +1,13 @@
+{
+    "name": "scandiweb/task",
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "symfony/var-dumper": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Src\\": "src"
+        }
+    }
+}
